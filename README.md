@@ -6,7 +6,7 @@ Please feel free to view the mods and download the 7Zip file.
 To install the mods navigate to %appdata%/.minecraft directory.
 Locate the local mods folder and delete it.
 Download the 7Zip file and extract it.
-Take the newly extraceted mods folder and move it to the %appdata%/.minecraft directory.
+Take the newly extracted mods folder and move it to the %appdata%/.minecraft directory.
 Launch Minecraft.
 Navigate to the 3 horizontal bars which display Minecraft Launcher Settings.
 Navigate to Launch Options.
